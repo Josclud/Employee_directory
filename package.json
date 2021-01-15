@@ -1,7 +1,7 @@
 {
-  "name": "user-directory",
+  "name": "Employee-directory",
   "version": "0.1.0",
-  "homepage": "https://CeliaNoriega.github.io/user-directory",
+  "homepage": "https://Josclud.github.io/Employee_directory",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.8",
